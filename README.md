@@ -6,4 +6,4 @@ I work with a few operating systems, but I ain't a pro just yet:
 <br/>\- Windows: 10, 11
 <br/>\- Linux: Ubuntu, Kali, Debian, Fedora, Arch
 
-Anyways, hi
+Enjoy.
