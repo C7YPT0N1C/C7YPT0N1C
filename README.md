@@ -109,16 +109,3 @@ Open-source Python concurrency library for bridging synchronous and asynchronous
 />
 
 </div>
-
----
-
-## 📬 Where to Contact Me
-
-<div align="center">
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/C7YPT0N1C)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/peaceolawuyi/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:peaceolawuyi01+github_contact@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/543824008026652692)
-
-</div>
