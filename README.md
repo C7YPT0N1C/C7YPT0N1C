@@ -14,13 +14,13 @@ I spend most of my time building and experimenting with:
 
 ## 🚀 Featured Projects
 
-### [Dendrite](https://github.com/anthrosystems/dendrite)
-
-Linux security research project built with Rust and eBPF, focused on low-level telemetry, threat analysis and a persistent Memory Graph.
-
 ### [Dovetail](https://github.com/anthrosystems/dovetail)
 
 Open-source Python concurrency library for bridging synchronous and asynchronous workloads with retries, timeouts, rate limiting and lifecycle events.
+
+### [Dendrite](https://github.com/anthrosystems/dendrite)
+
+Linux security research project built with Rust and eBPF, focused on low-level telemetry, threat analysis and a persistent Memory Graph.
 
 ---
 
