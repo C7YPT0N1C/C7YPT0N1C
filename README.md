@@ -52,39 +52,6 @@ Open-source Python concurrency library for bridging synchronous and asynchronous
 
 ---
 
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=C7YPT0N1C&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=C7YPT0N1C&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/C7YPT0N1C/C7YPT0N1C/gh-pages/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/C7YPT0N1C/C7YPT0N1C/gh-pages/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/C7YPT0N1C/C7YPT0N1C/gh-pages/github-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
----
-
 ## ⏱️ Coding Activity
 
 <div align="center">
